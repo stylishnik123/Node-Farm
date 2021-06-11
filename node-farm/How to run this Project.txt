@@ -1,0 +1,5 @@
+Step 1:-Go the Working Directory i.e  cd node-farm/final 
+
+Step 2:- Type the command in command Prompt:- node index.js
+
+Step 3:-Type the url in Browser:- 127.0.0.1:8000
